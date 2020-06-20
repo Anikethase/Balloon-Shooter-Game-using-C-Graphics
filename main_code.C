@@ -3,9 +3,7 @@
 /*  Program for to Made a Balloon Shooter game */
 /*   Main Program for this  */
 
-/*	Aniket V. Hase(652)
-		Atul R. Punde(654)
-		Vrushabh N. Shinde(678)		*/
+/*	Aniket V. Hase(652)		*/
 
 	#include<stdio.h>
 	#include<graphics.h>
